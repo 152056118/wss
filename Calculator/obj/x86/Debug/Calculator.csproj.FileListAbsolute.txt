@@ -1,0 +1,4 @@
+E:\C#面向对象\Practices\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\C#面向对象\Practices\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\C#面向对象\Practices\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+E:\C#面向对象\Practices\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
